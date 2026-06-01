@@ -4,7 +4,7 @@ A simple and responsive Calculator built using **HTML, CSS, and JavaScript**. Th
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.vercel.app/
+🔗 https://calculator-cyan-delta-23.vercel.app/
 
 ## 📸 Screenshot
 
@@ -47,7 +47,7 @@ calculator-app/
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/bs-bhaskar/calculator.git
 
 cd calculator-app
 ```
